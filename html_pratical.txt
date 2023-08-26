@@ -1,0 +1,9 @@
+Q1-   1st  open a floder from  C  drive ,then on floder press right click and open with visual studio . 
+
+step- 1   then create a file with .html 
+              then start ! enter , then make the page nmae at the title part , then follow the procesuder.
+
+ for the change content program ,1st take a id  inside body , then put one button  after click where the content
+ will be change form helo world to change  welcome to html5 pratical 
+
+then apply the script fromula  then function part and then document.getElementById
